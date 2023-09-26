@@ -26,3 +26,4 @@ from random import choice
 
 frutas = ["uva","pera","maça","laranja"]
 print(choice(frutas))
+
