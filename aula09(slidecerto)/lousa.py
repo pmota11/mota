@@ -14,9 +14,9 @@ def par_ou_impar(x):
         return "par"
     else:
         return "impar"
+print(par_ou_impar(3))
 
 print(par_ou_impar(2))
-print(par_ou_impar(3))
 
 def valida_int(numero, minimo, maximo):
     return numero >= minimo and numero <= maximo
